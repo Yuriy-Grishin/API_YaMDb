@@ -38,7 +38,7 @@ DRF Simple JWT;
 
 ## Запуск проекта 
 Сначала клонировать репозиторий и перейти в него в командной строке:
-git clone https://github.com/Yuriy-Grishin/api_yamdb
+git clone https://github.com/Yuriy-Grishin/API_YaMDb
 
 Установите и активируйте виртуальное окружение
 python -m venv venv
